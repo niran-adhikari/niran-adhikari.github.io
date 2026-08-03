@@ -29,8 +29,8 @@ const PROFILE = {
   name: "Niran Adhikari",
   role: "Aspiring Data Analyst",
   email: "nirajan.adhikari.np@gmail.com",          // TODO: replace with your real email
-  linkedin: "linkedin.com/in/nirajan-adhikari10/", // TODO: replace
-  github: "github.com/niran-adhikari"        // TODO: replace
+  linkedin: "https://www.linkedin.com/in/nirajan-adhikari10/", // TODO: replace
+  github: "https://github.com/niran-adhikari"        // TODO: replace
 };
 
 const SKILLS = [
